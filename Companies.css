@@ -1,0 +1,34 @@
+/* table, td, tr, th{
+    border: 1px solid black;
+} */
+
+
+#button-thing{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items:center;
+    
+}
+
+.add-icon{
+    height: 5%;
+    width: 5%;
+}
+
+
+.modal-form{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+.modal-content{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    width: 70%;
+}
+
+
+

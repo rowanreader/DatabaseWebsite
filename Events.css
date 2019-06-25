@@ -1,0 +1,33 @@
+/* table, tr, th, td{
+    border: 1px solid black;
+} */
+
+.tab-container{
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.events_table{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.modal-content{
+    width: 60%;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+    /* align-items:center; */
+}
+
+.modal-form{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+#edit-icon{
+    height: 10%;
+}
